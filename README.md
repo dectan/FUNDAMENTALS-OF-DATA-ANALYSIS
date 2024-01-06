@@ -1,10 +1,7 @@
 # FUNDAMENTALS-OF-DATA-ANALYSIS
-FUNDAMENTALS OF DATA ANALYSIS G00364639 
-
-# Programming-for-Data-Analysis-Project-1
 
 <p>G00364639</p>
-<p>This repository is used for the project given during the PROGRAMMING FOR DATA ANALYSIS module on Higher Diploma in Data Analytics course from ATU.</p>
+<p>This repository is used for the project given during the FUNDAMENTALS-OF-DATA-ANALYSIS module on Higher Diploma in Data Analytics course from ATU.</p>
 
 <p>I have created Jupyter Notebook in Visual Studio Code, & I have added added comments to explain work, along with references<br>
 
@@ -16,7 +13,7 @@ FUNDAMENTALS OF DATA ANALYSIS G00364639
 </ol>
 
 # **Table of contents**
-* [Programming-for-Data-Analysis-Project-1](Programming-for-Data-Analysis-Project-1)
+* [FUNDAMENTALS-OF-DATA-ANALYSIS](FUNDAMENTALS-OF-DATA-ANALYSIS)
     1. [Introduction](#Introduction)
     2. [How to run program](#How-to-run-program)
     3. [Imported Libraries](#Imported-Libraries)
