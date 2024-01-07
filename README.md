@@ -77,12 +77,12 @@ set.
 # Additional Information #
 <ol>
 <li> My github repository is @ <a href="#">https://github.com/dectan/FUNDAMENTALS-OF-DATA-ANALYSIS</a></li>
-<li> My github Ripository is called "FUNDAMENTALS-OF-DATA-ANALYSIS</li>
-<li> This ripository contains a .gitignore file, 2 *  Jupyter notebooks, and a readme file and a folder with images. </li>   
+<li> My github Repository is called "FUNDAMENTALS-OF-DATA-ANALYSIS</li>
+<li> This repository contains a .gitignore file, 2 *  Jupyter notebooks, and a readme file and a folder with images. </li>   
 <li> My Jupyter notebooks are called "project.ipynb" and "tasks.ipynb"</li> 
 <li> There are no additional files required to run program as dataset is loaded from seaborn </li>
-<li> images are stored in a folder called "img" in this ripository </li>
-<li> Libraries that need to be imported are contained in first *txt* cell of both Jupyter notebooks </li> 
+<li> images are stored in a folder called "img" in this repository </li>
+<li> Libraries that need to be imported are contained in first *text* cell of both Jupyter notebooks </li> 
 </ol>
 
 # Imported Libraries #
