@@ -43,10 +43,15 @@ x ÷ 2 if x is even
 For example, starting with the value 10, which is an even number, we divide it by 2 to get 5. Then 5 is an odd number so, we multiply by 3 and add 1 to get 16. Then we repeatedly divide by 2 to get 8, 4, 2, 1. Once we are at 1, we go back to 4 and get stuck in the repeating sequence 4, 2, 1 as we suspected.  
 
 Your task is to verify, using Python, that the conjecture is true for the first 10,000 positive integers.</li>
+==========================================================================================================================================
 <li> **Task 2** : Give an overview of the famous penguins data set, explaining the types of variables it contains. Suggest the types of variables that should be used to model them in Python, explaining your rationale </li>
-<li> **Task 3** : For each of the variables in the penguins data set, suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.  </li>   
+==========================================================================================================================================
+<li> **Task 3** : For each of the variables in the penguins data set, suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.  </li> 
+==========================================================================================================================================
 <li> **Task 4** :Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p </li> 
+==========================================================================================================================================
 <li> **Task 5** Create an appropriate individual plot for each of the variables in the penguin data set.  </li>
+=========================================================================================================================================
 </ol>
 </p>
 
@@ -93,7 +98,7 @@ set.
 <li> My Jupyter notebooks are called "project.ipynb" and "tasks.ipynb"</li> 
 <li> There are no additional files required to run program as dataset is loaded from seaborn </li>
 <li> images are stored in a folder called "img" in this ripository </li>
-<li> Libraries that need to be imported are contained in first cell of Jupyter notebook </li> 
+<li> Libraries that need to be imported are contained in first *txt* cell of both Jupyter notebooks </li> 
 </ol>
 
 # Imported Libraries #
