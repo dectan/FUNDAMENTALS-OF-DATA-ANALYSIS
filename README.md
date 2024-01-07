@@ -29,12 +29,9 @@
 <li>tasks.ipynb, which contains all the work relating to tasks section</li>
 <li>project.ipynb, which contains all the work relating to project section</li>
 </p>
-
-
-
 <p> The tasks section scope is as follows
 <ol>
-<li> **Task 1** : The Collatz conjecture is a famous unsolved problem in mathematics. The problem is to prove that if you start with any positive integer x and repeatedly apply the function $f(x)$ below, you always get stuck in the repeating sequence 1, 4, 2, 1, 4, 2, . . . 
+<li> *Task 1* : The Collatz conjecture is a famous unsolved problem in mathematics. The problem is to prove that if you start with any positive integer x and repeatedly apply the function $f(x)$ below, you always get stuck in the repeating sequence 1, 4, 2, 1, 4, 2, . . . 
 
 f(x) =
 x ÷ 2 if x is even
@@ -43,18 +40,17 @@ x ÷ 2 if x is even
 For example, starting with the value 10, which is an even number, we divide it by 2 to get 5. Then 5 is an odd number so, we multiply by 3 and add 1 to get 16. Then we repeatedly divide by 2 to get 8, 4, 2, 1. Once we are at 1, we go back to 4 and get stuck in the repeating sequence 4, 2, 1 as we suspected.  
 
 Your task is to verify, using Python, that the conjecture is true for the first 10,000 positive integers.</li>
-============================================================================================
-<li> **Task 2** : Give an overview of the famous penguins data set, explaining the types of variables it contains. Suggest the types of variables that should be used to model them in Python, explaining your rationale </li>
-============================================================================================
-<li> **Task 3** : For each of the variables in the penguins data set, suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.  </li> 
-===========================================================================================
-<li> **Task 4** :Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p </li> 
-===========================================================================================
-<li> **Task 5** Create an appropriate individual plot for each of the variables in the penguin data set.  </li>
-===========================================================================================
+====================================================================================
+<li> *Task 2* : Give an overview of the famous penguins data set, explaining the types of variables it contains. Suggest the types of variables that should be used to model them in Python, explaining your rationale </li>
+====================================================================================
+<li> *Task 3* : For each of the variables in the penguins data set, suggest what probability distribution from the numpy random distributions list is the most appropriate to model the variable.  </li> 
+====================================================================================
+<li> *Task 4* :Suppose you are flipping two coins, each with a probability p of giving heads. Plot the entropy of the total number of heads versus p </li> 
+===================================================================================
+<li> *Task 5* Create an appropriate individual plot for each of the variables in the penguin data set.  </li>
+===================================================================================
 </ol>
 </p>
-
 
 <p> The project scope is as follows
 <ol>
@@ -66,7 +62,7 @@ statistics to describe each variable. </li>
 each variable. </li> 
 <li> The notebook should follow a cohesive narrative about the data
 set.
- </li>
+</li>
 </ol>
 </p>
 
@@ -90,7 +86,6 @@ set.
 </ol>
 
 # Imported Libraries #
-
 <ol>
 <li>import numpy as np</li>
 <p> NumPy is short for "Numerical Python". It allows for matematical and logical operations on arrays efficiently. NumPy also enables user to reshape,slice ,stack and join arrays.</p>
